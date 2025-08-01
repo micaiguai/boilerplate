@@ -5,8 +5,8 @@ export default defineConfig({
   presets: [
     presetWind4({
       preflights: {
-        reset: true
-      }
+        reset: true,
+      },
     }),
     presetIcons({ /* options */ }),
   ],

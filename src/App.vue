@@ -1,6 +1,6 @@
 <template>
-  <div class="flex flex-col justify-center items-center h-dvh">
+  <div class="flex flex-col items-center justify-center h-dvh">
     Hello Boilerplate
-    <div class="i-material-symbols:house text-xl"></div>
+    <div class="i-material-symbols:house text-xl" />
   </div>
 </template>
